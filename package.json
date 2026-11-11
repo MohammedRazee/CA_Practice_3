@@ -1,0 +1,14 @@
+{
+  "name": "ca-practice-3-hotelrooms",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "answer": "node index.js answer"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
